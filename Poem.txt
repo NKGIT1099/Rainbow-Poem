@@ -6,5 +6,6 @@ Yellow
 Red
 Blue
 White
+Orange
 These are the colors of my poem
-Adding White
+Adding White and orange
