@@ -6,6 +6,7 @@ Yellow
 Red
 Blue
 White
+meganta
 Orange
 Unicorn
 These are the colors of my poem
